@@ -1,0 +1,2 @@
+# tgr-theme
+Drupal Theme
